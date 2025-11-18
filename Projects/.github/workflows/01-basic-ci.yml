@@ -3,9 +3,9 @@ name: Basic CI Workflow
 # Trigger workflow on push and pull requests
 on:
   push:
-    branches: [ main, develop ]
+    branches: [ main, master, develop ]
   pull_request:
-    branches: [ main, develop ]
+    branches: [ main, master, develop ]
 
 # Allow manual workflow dispatch
   workflow_dispatch:

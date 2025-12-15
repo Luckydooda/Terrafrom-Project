@@ -6,6 +6,15 @@
 terraform {
   required_version = ">= 1.0.0"
 
+  # Remote State Configuration
+  backend "s3" {
+    bucket         = "laxmi-terraform-state-2024"
+    key            = "prod/terraform.tfstate"
+    region         = "ap-south-1"
+    encrypt        = true
+    dynamodb_table = "terraform-state-lock-table"
+  }
+
   required_providers {
     aws = {
       source  = "hashicorp/aws"

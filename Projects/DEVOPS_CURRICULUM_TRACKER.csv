@@ -1,0 +1,87 @@
+Week,Day,Date,Track,Topic,Problems/Sub-Topics,Duration,Priority,Status,SRE Mindset
+Week 1,Wed,Jan 7,DSA,Big-O Basics + SRE Problems,"Big-O analysis, Arrays (3 problems), Log Analyzer, Health Check Monitor",90 min,High,[x],✅ Solved 5 problems! Used Counter, defaultdict, datetime, json!
+Week 1,Wed,Jan 7,DevOps,Linux + Python Modules,"File structure, grep, find, permissions, log analysis, Python modules (os/sys/subprocess/collections)",120 min,High,[x],✅ EC2 practice! Linux quiz 7+/10. Python modules guide complete!
+Week 1,Thu,Jan 8,DSA,Arrays + Prefix Sum,"Contains Duplicate, Max/Min, Running Sum, Range Sum",30 min,High,[ ],Like metrics aggregation
+Week 1,Thu,Jan 8,DevOps,Shell Scripting,"Variables, if/for/while, Functions",30 min,High,[ ],Automation basics
+Week 1,Fri,Jan 9,DSA,Two Pointers,"Reverse Array, Two Sum (sorted), Remove Duplicates",30 min,High,[x],Done yesterday!
+Week 1,Fri,Jan 9,DevOps,Git Advanced,"Branching strategy, PRs, Merge conflicts",30 min,High,[ ],Daily tool
+Week 1,Sat,Jan 10,DSA,Sliding Window,"Max Sum Subarray, Longest Substring Without Repeating",30 min,High,[x],Done yesterday!
+Week 1,Sat,Jan 10,DevOps,Maven/Build,"pom.xml, Lifecycles, Dependencies",30 min,Medium,[ ],Java builds
+Week 1,Sun,Jan 11,DSA,Frequency Counting,"Count Frequencies, Anagram Check, Top-K Frequent",30 min,High,[ ],Like log analysis!
+Week 1,Sun,Jan 11,DevOps,Docker Basics,"Dockerfile, Images, Containers",30 min,High,[ ],Container fundamentals
+Week 1,Mon,Jan 12,DSA,Mixed Array Patterns,"Move Zeros, Product Except Self",30 min,High,[ ],
+Week 1,Mon,Jan 12,Review,Week 1 Review,"Re-solve 2 problems without looking",30 min,High,[ ],Explain out loud!
+Week 2,Tue,Jan 13,DSA,String Basics,"Reverse String, Palindrome Check",30 min,High,[ ],Log parsing prep
+Week 2,Tue,Jan 13,DevOps,Docker Advanced,"Networks, Volumes, Compose",30 min,High,[ ],
+Week 2,Wed,Jan 14,DSA,Pattern Matching,"Valid Anagram, First Unique Character",30 min,High,[ ],
+Week 2,Wed,Jan 14,DevOps,Jenkins Basics,"Freestyle jobs, Pipeline syntax",30 min,High,[ ],CI/CD core
+Week 2,Thu,Jan 15,DSA,Binary Search Basics,"Binary Search, First/Last Occurrence",30 min,High,[ ],O(log n) efficiency
+Week 2,Thu,Jan 15,DevOps,Jenkins Pipelines,"Jenkinsfile, Stages, Agents",30 min,High,[ ],
+Week 2,Fri,Jan 16,DSA,Binary Search Variations,"Search Rotated Array, Peak Element",30 min,High,[ ],
+Week 2,Fri,Jan 16,DevOps,SonarQube,"Quality Gates, Profiles",30 min,Medium,[ ],Code quality
+Week 2,Sat,Jan 17,DSA,Sorting Concepts,"Merge Sorted Arrays, Sort Colors",30 min,High,[ ],
+Week 2,Sat,Jan 17,DevOps,Nexus,"Repository types, Maven integration",30 min,Medium,[ ],
+Week 2,Sun,Jan 18,DSA,Mock Interview Day,"Explain solution + complexity verbally",60 min,High,[ ],Practice talking!
+Week 2,Mon,Jan 19,Review,Revision + Weak Spots,"Focus on failed problems",30 min,High,[ ],
+Week 3,Tue,Jan 20,DSA,Linked List Basics,"Reverse Linked List",30 min,High,[ ],Pointer manipulation
+Week 3,Tue,Jan 20,DevOps,Ansible Playbooks,"Inventory, Tasks, Handlers",30 min,High,[ ],Config mgmt
+Week 3,Wed,Jan 21,DSA,Fast-Slow Pointer,"Detect Cycle, Find Middle",30 min,High,[ ],Like health checks!
+Week 3,Wed,Jan 21,DevOps,Ansible Advanced,"Roles, Vault, Dynamic Inventory",30 min,High,[ ],
+Week 3,Thu,Jan 22,DSA,Stack Basics,"Valid Parentheses, Min Stack",30 min,High,[ ],LIFO pattern
+Week 3,Thu,Jan 22,DevOps,AWS EC2 & VPC,"Subnets, Security Groups, NAT",30 min,High,[ ],Cloud basics
+Week 3,Fri,Jan 23,DSA,Monotonic Stack,"Next Greater Element",30 min,High,[ ],
+Week 3,Fri,Jan 23,DevOps,AWS S3 & IAM,"Buckets, Policies, Roles",30 min,High,[ ],
+Week 3,Sat,Jan 24,DSA,Queue/Deque,"Sliding Window Maximum (deque logic)",30 min,High,[ ],Like request queues!
+Week 3,Sat,Jan 24,DevOps,AWS ELB & Route53,"Load balancing, DNS",30 min,High,[ ],
+Week 3,Sun,Jan 25,DSA,Review LL + Stack,"Re-solve 2 problems from memory",60 min,High,[ ],
+Week 3,Mon,Jan 26,Review,Light Mock Interview,"Timed problem + explanation",60 min,High,[ ],
+Week 4,Tue,Jan 27,DSA,HashMap Deep Dive,"Two Sum, Subarray Sum = K",30 min,High,[ ],Like request-ID counter!
+Week 4,Tue,Jan 27,DevOps,Kubernetes Pods,"kubectl, YAML manifests, Deployments",30 min,High,[ ],K8s basics
+Week 4,Wed,Jan 28,DSA,Advanced Hashing,"Longest Substring K Distinct, Group Anagrams",30 min,High,[ ],
+Week 4,Wed,Jan 28,DevOps,K8s Services,"ClusterIP, NodePort, LoadBalancer, Ingress",30 min,High,[ ],
+Week 4,Thu,Jan 29,DSA,Heap Basics (SRE-Relevant!),"Kth Largest, Top-K Frequent",30 min,High,[ ],Alert priority queues!
+Week 4,Thu,Jan 29,DevOps,K8s ConfigMaps & Secrets,"Environment configuration",30 min,High,[ ],
+Week 4,Fri,Jan 30,DSA,Tree Basics,"Inorder/Preorder Traversal",30 min,High,[ ],
+Week 4,Fri,Jan 30,DevOps,K8s Storage,"PV, PVC, StatefulSets",30 min,High,[ ],
+Week 4,Sat,Jan 31,DSA,Tree Depth Problems,"Max Depth, Level Order Traversal",30 min,High,[ ],Like dependency trees!
+Week 4,Sat,Jan 31,DevOps,K8s HPA & Probes,"Auto-scaling, Health checks",30 min,High,[ ],
+Week 4,Sun,Feb 1,DSA,BST Basics,"Validate BST, Search in BST",30 min,High,[ ],
+Week 4,Mon,Feb 2,DSA,Mixed Revision Day,"Re-solve weak problems",60 min,High,[ ],
+Week 5,Tue,Feb 3,DSA,Mock Interview (Timed),"Solve 2 problems in 45 min",45 min,High,[ ],Simulate pressure
+Week 5,Tue,Feb 3,DevOps,Kubernetes Helm,"Charts, Values, Templates",30 min,High,[ ],
+Week 5,Wed,Feb 4,DSA,Final Revision Day 1,"Arrays, Strings, Binary Search",30 min,High,[ ],
+Week 5,Wed,Feb 4,DevOps,K8s EKS,"AWS managed Kubernetes",30 min,High,[ ],
+Week 5,Thu,Feb 5,DSA,Final Revision Day 2,"Linked List, Stack, Queue",30 min,High,[ ],
+Week 5,Thu,Feb 5,DevOps,Prometheus,"Setup, Metrics, Scraping",30 min,High,[ ],Monitoring
+Week 5,Fri,Feb 6,DSA,Final Revision Day 3,"HashMap, Heap, Trees",30 min,High,[ ],
+Week 5,Fri,Feb 6,DevOps,Grafana,"Dashboards, Visualization",30 min,High,[ ],
+Week 5,Sat,Feb 7,DSA,Explain Everything Aloud,"Focus on WHY, not HOW",60 min,High,[ ],SRE differentiator!
+Week 5,Sun,Feb 8,Review,Full Mock Interview,"2 problems + system design basics",90 min,High,[ ],
+Week 6,Mon,Feb 9,DevOps,Terraform Basics,"Providers, Resources, Variables",30 min,High,[ ],IaC
+Week 6,Mon,Feb 9,Review,DSA Confidence Check,"Can you solve medium confidently?",30 min,High,[ ],
+Week 6,Tue,Feb 10,DSA,LeetCode Medium Practice,"Random 2 problems",30 min,High,[ ],
+Week 6,Tue,Feb 10,DevOps,Terraform Modules,"Reusable infrastructure",30 min,High,[ ],
+Week 6,Wed,Feb 11,DSA,LeetCode Medium Practice,"Random 2 problems",30 min,High,[ ],
+Week 6,Wed,Feb 11,DevOps,Terraform State,"Remote state, Locking",30 min,High,[ ],
+Week 6,Thu,Feb 12,DSA,Explain + Code,"Solve while explaining",30 min,High,[ ],
+Week 6,Thu,Feb 12,DevOps,Terraform Workspaces,"Multi-environment",30 min,High,[ ],
+Week 6,Fri,Feb 13,Mock,Coding Interview Sim,"Timed problems + verbal explanation",60 min,High,[ ],
+Week 6,Sat,Feb 14,Project,Terraform Infra,"Build AWS VPC with Terraform",60 min,High,[ ],Portfolio
+Week 6,Sun,Feb 15,Review,Week Review,"Gaps and improvements",60 min,High,[ ],
+Week 7,Mon,Feb 16,DevOps,ArgoCD GitOps,"Sync, Applications, Rollbacks",30 min,High,[ ],
+Week 7,Tue,Feb 17,DSA,Graph Basics (Bonus),"BFS/DFS, Number of Islands",30 min,Medium,[ ],Service dependencies
+Week 7,Tue,Feb 17,DevOps,Security Trivy,"Container scanning, CVEs",30 min,High,[ ],
+Week 7,Wed,Feb 18,DSA,Graph Practice,"Clone Graph, Course Schedule",30 min,Medium,[ ],
+Week 7,Wed,Feb 18,DevOps,Production Hardening,"Security best practices",30 min,High,[ ],
+Week 7,Thu,Feb 19,DSA,System Design Basics,"Scaling concepts, Trade-offs",30 min,High,[ ],
+Week 7,Thu,Feb 19,DevOps,End-to-End Pipeline,"CI/CD to K8s",30 min,High,[ ],
+Week 7,Fri,Feb 20,Mock,Full Coding Interview,"3 problems, 90 min",90 min,High,[ ],
+Week 7,Sat,Feb 21,Mock,System Design Interview,"Design a monitoring system",60 min,High,[ ],
+Week 7,Sun,Feb 22,Review,Full Review,"All topics summary",60 min,High,[ ],
+Week 8,Mon,Feb 23,SRE,SLI/SLO/SLA,"Reliability concepts, Error budgets",30 min,High,[ ],SRE core
+Week 8,Tue,Feb 24,SRE,Incident Management,"On-call, RCA, Runbooks",30 min,High,[ ],
+Week 8,Tue,Feb 24,DSA,Quick Pattern Review,"Top 10 patterns summary",30 min,High,[ ],
+Week 8,Wed,Feb 25,Review,DevOps Full Review,"All 15 modules",60 min,High,[ ],
+Week 8,Thu,Feb 26,Mock,Behavioral Prep,"Tell me about yourself, Projects",30 min,High,[ ],
+Week 8,Fri,Feb 27,Mock,Full Interview Simulation,"Technical + Behavioral",90 min,High,[ ],
+Week 8,Sat,Feb 28,READY,Interview Ready!,"You can solve medium DSA confidently. You can explain logic clearly. You sound like an SRE!",0 min,High,[ ],🎯
